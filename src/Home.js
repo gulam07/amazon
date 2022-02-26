@@ -58,6 +58,17 @@ function Home() {
             
             />
             </div>
+
+            <div className="home__row">
+            <Product 
+                id="06"
+                title="
+                Symphony Diet 12T Personal Tower Air Cooler 12-litres, Multistage Air Purification, Honeycomb Cooling Pad, Powerful Air Throw (White), Standard"
+                price={1100}
+                image="https://m.media-amazon.com/images/I/61J2kbra6eL._SL1500_.jpg" 
+            
+            />
+            </div>
           </div>    
         </div>
     )

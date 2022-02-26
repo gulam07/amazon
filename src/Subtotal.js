@@ -30,7 +30,7 @@ function Subtotal() {
             <button onClick={e=> history.push('/payment')} >Proceed to Buy</button>
 
         </div>
-    )
+    );
 }
 
 export default Subtotal
