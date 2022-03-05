@@ -34,7 +34,7 @@ function Home() {
             <div className="home__row">
             <Product 
                 id="04"
-                title="Dell Inspiron 3501 15.6 FHD Display Laptop"
+                title="Dell Inspiron 3501 15.6 FHD Display Laptop ram 8gb,camera 108"
                 price={300}
                 image="https://m.media-amazon.com/images/I/61zbf9g+VDS._SL1280_.jpg" 
             
